@@ -2,6 +2,7 @@
 This website enables landlords to post their vacant rental units allowing individuals to book them from whenever in a short time.
 
 #Guidelines
+
 Defining the scope and features of the website is a crucial step in the development of a successful rental listing website. This step involves defining the target audience, the types of rental spaces that will be listed on the website, the information that will be required from landlords, the search options that will be available to renters, and the payment options that will be available to landlords.
 1.1 Define the target audience: The target audience for the rental listing website should be identified, including the age range, occupation, income level, and location of the potential users. Understanding the target audience will help in designing the website layout, user interface, and marketing strategy to effectively reach the intended audience.
 1.2 Types of rental spaces: The types of rental spaces that will be listed on the website should be defined. This could include houses, apartments, condos, office spaces, commercial spaces, and other rental spaces. It is important to ensure that the website caters to the specific needs and preferences of the target audience.
